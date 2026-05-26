@@ -20,4 +20,6 @@ git remote add origin Your_Link
 пробел ставите точку для того чтобы добавить все файлы:
 3) git commit -m "lesson1 added"    | Это команда для сохранения ваших данных которые находятся в буфере. Внутри кавычек пишите название вашего комита:
 4) git branch
+
+
 5) git push origin main или master
